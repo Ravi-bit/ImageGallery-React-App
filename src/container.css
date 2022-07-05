@@ -1,0 +1,22 @@
+.cardContainer {
+    width : auto;
+    max-width :80%;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+/*
+.modalContainer{
+  text-align: center;
+  width : auto;
+  max-width :80%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  justify-content: center;
+}
+*/
